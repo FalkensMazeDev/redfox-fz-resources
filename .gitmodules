@@ -1,0 +1,9 @@
+[submodule "badkb/Flipper-Zero-BadUSB"]
+	path = badkb/Flipper-Zero-BadUSB
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB.git
+[submodule "subghz/SubGhz_Cust_Serv"]
+	path = subghz/SubGhz_Cust_Serv
+	url = https://github.com/DRA6N/SubGhz_Cust_Serv
+[submodule "collections/Flipper"]
+	path = collections/Flipper
+	url = https://github.com/UberGuidoZ/Flipper
