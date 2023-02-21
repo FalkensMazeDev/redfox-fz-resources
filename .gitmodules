@@ -7,3 +7,9 @@
 [submodule "collections/Flipper"]
 	path = collections/Flipper
 	url = https://github.com/UberGuidoZ/Flipper
+[submodule "collections/FlipperStuff"]
+	path = collections/FlipperStuff
+	url = https://github.com/Sorted1/FlipperStuff
+[submodule "redfox-fz-animations"]
+	path = redfox-fz-animations
+	url = https://github.com/WPCMSNinja/redfox-fz-animations
