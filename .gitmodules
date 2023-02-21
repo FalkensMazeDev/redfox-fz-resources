@@ -13,3 +13,21 @@
 [submodule "redfox-fz-animations"]
 	path = redfox-fz-animations
 	url = https://github.com/WPCMSNinja/redfox-fz-animations
+[submodule "badkb/Flipper_Zero-BadUsb"]
+	path = badkb/Flipper_Zero-BadUsb
+	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
+[submodule "firmware/Flipper-Xtreme"]
+	path = firmware/Flipper-Xtreme
+	url = https://github.com/ClaraCrazy/Flipper-Xtreme
+[submodule "firmware/RedFox-Flipper"]
+	path = firmware/RedFox-Flipper
+	url = https://github.com/WPCMSNinja/RedFox-Flipper
+[submodule "firmware/flipperzero-firmware"]
+	path = firmware/flipperzero-firmware
+	url = https://github.com/flipperdevices/flipperzero-firmware
+[submodule "firmware/flipperzero-firmware-wPlugins"]
+	path = firmware/flipperzero-firmware-wPlugins
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+[submodule "collections/awesome-flipperzero"]
+	path = collections/awesome-flipperzero
+	url = https://github.com/djsime1/awesome-flipperzero
