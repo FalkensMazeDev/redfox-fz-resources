@@ -31,3 +31,6 @@
 [submodule "collections/awesome-flipperzero"]
 	path = collections/awesome-flipperzero
 	url = https://github.com/djsime1/awesome-flipperzero
+[submodule "firmware/unleashed-firmware"]
+	path = firmware/unleashed-firmware
+	url = https://github.com/DarkFlippers/unleashed-firmware
